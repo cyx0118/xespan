@@ -2,7 +2,6 @@
 
 # ProjectName
 
-ProjectName and Description
 
 <!-- PROJECT SHIELDS -->
 
@@ -17,7 +16,7 @@ ProjectName and Description
 <br />
 
 <p align="center">
-  <a href="https://github.com/cyx0118/xespan">
+  <a href="https://github.com/cyx0118/xespan/edit/2.0-dev/">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
