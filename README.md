@@ -1,7 +1,5 @@
 
 
-# ProjectName
-
 
 <!-- PROJECT SHIELDS -->
 
